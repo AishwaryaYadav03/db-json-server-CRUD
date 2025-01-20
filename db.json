@@ -1,0 +1,25 @@
+{
+  "User": [
+    {
+      "id": "439f",
+      "name": "Aishwarya Yadav",
+      "mobile": "9359232722",
+      "email": "aishwaryayadav2722@gmail.com",
+      "age": "23"
+    },
+    {
+      "id": "6bfd",
+      "name": "Shifa Pathan",
+      "mobile": "9987656789",
+      "email": "shifa@gmail.com",
+      "age": "22"
+    },
+    {
+      "id": "e305",
+      "name": "Siya Yadav",
+      "mobile": "9898765678",
+      "email": "siya@gmail.com",
+      "age": "20"
+    }
+  ]
+}
